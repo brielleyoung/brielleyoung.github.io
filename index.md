@@ -1,3 +1,3 @@
-theme: jekyll-theme-midnight
-title: Welcome to Brielle Young's Homepage!
-description: Just an easy way to access my repositories...
+# Welcome to Brielle Young's Homepage!
+##### _Just an easy way to access my nonexistant repositories..._
+![Pusheen](https://brielleyoung.github.io/pusheen.gif)
